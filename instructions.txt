@@ -1,5 +1,5 @@
 Part 1: Creating the Components
-    1. Set Up a Components Folder
+   X 1. Set Up a Components Folder
          Inside the src directory, create a folder named components.
     2. Create a ProfileCard.jsx File
         ○ Define a ProfileCard functional component that accepts props for name, age, and bio.
